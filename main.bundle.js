@@ -414,7 +414,7 @@
 	  if (host === "localhost" || host === "127.0.0.1") {
 	    return "http://localhost:3000";
 	  } else {
-	    return "https://calm-fjord-39732.herokuapp.com";
+	    return "https://desolate-peak-32053.herokuapp.com";
 	  }
 	};
 
